@@ -1,0 +1,16 @@
+{
+  "name": "raycraft",
+  "version": "1.0.0",
+  "description": "",
+  "license": "MIT",
+  "author": "soulwach900",
+  "type": "module",
+  "main": "program.js",
+  "scripts": {
+    "start": "node src/Program.js"
+  },
+  "dependencies": {
+    "noisejs": "^2.1.0",
+    "raylib": "*"
+  }
+}
